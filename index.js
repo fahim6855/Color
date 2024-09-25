@@ -9,7 +9,7 @@
 let linkZ = 2;
 let pZ = 1;
 let dldZ = 1;
-let countNum = 3
+let countNum = 11
    
 link.addEventListener("click", count);
 function count(){
